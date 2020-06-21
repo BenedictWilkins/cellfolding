@@ -13,6 +13,6 @@ def _jupyter_nbextension_paths():
         # the path is relative to the `my_fancy_module` directory
         src="static",
         # directory in the `nbextension/` namespace
-        dest="cellfold",
+        dest="cellfolding",
         # _also_ in the `nbextension/` namespace
-        require="cellfold/index")]
+        require="cellfolding/index")]

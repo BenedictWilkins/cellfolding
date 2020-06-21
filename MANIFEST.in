@@ -1,2 +1,0 @@
-recursive-include jupyter-config *.json
-recursive-include my_fancy_module/static *.js

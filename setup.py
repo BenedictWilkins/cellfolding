@@ -12,12 +12,12 @@ import setuptools
 setuptools.setup(name='cellfolding',
       version='0.0.1',
       description='',
-      url='https://github.com/',
+      url='https://github.com/BenedictWilkinsAI/cellfolding',
       author='Benedict Wilkins',
       author_email='brjw@hotmail.co.uk',
       license='GNU General Public License v3 (GPLv3)T',
-      packages=['cellfold'],
-      install_requires=['jupyter', 'nbextension']
+      packages=['cellfolding'],
+      install_requires=['jupyter'],
       include_package_data=True,
       classifiers=[
         "Programming Language :: Python :: 3.7",
