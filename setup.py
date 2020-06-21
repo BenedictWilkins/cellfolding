@@ -10,7 +10,7 @@ __status__ = "Development"
 import setuptools
 
 setuptools.setup(name='nbextension-cellfolding',
-      version='0.0.2',
+      version='0.0.3',
       description='',
       url='https://github.com/BenedictWilkinsAI/cellfolding',
       author='Benedict Wilkins',
