@@ -17,8 +17,8 @@ setuptools.setup(name='cellfolding',
       author_email='brjw@hotmail.co.uk',
       license='GNU General Public License v3 (GPLv3)T',
       packages=['cellfold'],
+      install_requires=['jupyter', 'nbextension']
       include_package_data=True,
-      install_requires=['pystarworlds', 'pillow'],
       classifiers=[
         "Programming Language :: Python :: 3.7",
         "Development Status :: 2 - Pre-Alpha",

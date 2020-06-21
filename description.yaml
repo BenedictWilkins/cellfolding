@@ -1,7 +1,0 @@
-Type: Jupyter Notebook Extension
-Compatibility: 3.x, 4.x, 5.x, 6.x
-Name: Cell Folding
-Main: cellfold/static/index.js
-Link: README.md
-Description: Simple single cell folding. Double clicking on the left side of a cell will collapse the cell, double clicking again will expand to the original size.
-Parameters:
