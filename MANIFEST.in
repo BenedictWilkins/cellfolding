@@ -1,0 +1,3 @@
+recursive-include cellfolding *.js
+recursive-include cellfolding *.md
+recursive-include cellfolding *.yaml
