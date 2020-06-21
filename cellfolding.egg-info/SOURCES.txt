@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.py
+cellfolding/__init__.py
+cellfolding.egg-info/PKG-INFO
+cellfolding.egg-info/SOURCES.txt
+cellfolding.egg-info/dependency_links.txt
+cellfolding.egg-info/requires.txt
+cellfolding.egg-info/top_level.txt

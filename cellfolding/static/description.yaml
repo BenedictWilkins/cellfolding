@@ -1,6 +1,6 @@
 Type: Jupyter Notebook Extension
 Compatibility: 4.x, 5.x
 Name: Cell Folding
-Main: static/index.js
+Main: index.js
 Link: README.md
 Description: Simple Jupyter Notebook extension that enables cell folding. Double clicking on the left side of the cell will toggle collapse/expand.
